@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1520567920 source:c:\users\ulises\documents\itc itesm\2do semestre\programacion oo\proyecto2 videos\main.cpp
+	<iostream>
+	<fstream>
+	"EjemploVideo.h"
+
+1520305571 c:\users\ulises\documents\itc itesm\2do semestre\programacion oo\proyecto2 videos\ejemplovideo.h
+	"Fecha.h"
+	"Autor.h"
+	"Tema.h"
+
+1519792647 c:\users\ulises\documents\itc itesm\2do semestre\programacion oo\proyecto2 videos\fecha.h
+	"EjemploVideo.h"
+
+1519792647 c:\users\ulises\documents\itc itesm\2do semestre\programacion oo\proyecto2 videos\autor.h
+	"EjemploVideo.h"
+
+1519792675 c:\users\ulises\documents\itc itesm\2do semestre\programacion oo\proyecto2 videos\tema.h
+	"Materia.h"
+	"EjemploVideo.h"
+
+1519792647 c:\users\ulises\documents\itc itesm\2do semestre\programacion oo\proyecto2 videos\materia.h
+	"Tema.h"
+
